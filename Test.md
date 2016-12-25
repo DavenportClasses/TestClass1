@@ -4,3 +4,9 @@
 
 -[] two
 
+*another one*
+
+**is this bolded**
+
+- [ ] test
+
